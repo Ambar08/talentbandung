@@ -1,0 +1,27 @@
+body {
+    background: #40E05B;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+table {
+    background: white;
+    width: 100%;
+    border: 1px solid black;
+}
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid orange
+}
+img {
+    border-radius: 80%;
+}
+h1{
+    font-size: 30px;
+    color: green;
+}
+  
+th {
+    border: 1px solid red
+}
